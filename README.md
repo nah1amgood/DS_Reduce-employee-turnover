@@ -29,10 +29,16 @@ The department has assembled data on almost 10,000 employees. The team used info
 "avg_hrs_month" - the average hours the employee worked in a month.
 
 "left" - "yes" if the employee ended up leaving, "no" otherwise.
-↳ 1 cell hidden
+
 #💪 Competition challenge
+
 Create a report that covers the following:
 
-Which department has the highest employee turnover? Which one has the lowest?
+Which department has the highest employee turnover? 
+
+Which one has the lowest?
+
 Investigate which variables seem to be better predictors of employee departure.
+
 What recommendations would you make regarding ways to reduce employee turnover?
+
