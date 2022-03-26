@@ -1,12 +1,13 @@
-# DS_Reduce-employee-turnover
+##DS_Reduce-employee-turnover
 
 Can you help reduce employee turnover?
-📖 Background
+
+#📖 Background
 You work for the human capital department of a large corporation. The Board is worried about the relatively high turnover, and your team must look into ways to reduce the number of employees leaving the company.
 
 The team needs to understand better the situation, which employees are more likely to leave, and why. Once it is clear what variables impact employee churn, you can present your findings along with your ideas on how to attack the problem.
 
-💾 The data
+#💾 The data
 The department has assembled data on almost 10,000 employees. The team used information from exit interviews, performance reviews, and employee records.
 
 "department" - the department the employee belongs to.
@@ -20,7 +21,7 @@ The department has assembled data on almost 10,000 employees. The team used info
 "avg_hrs_month" - the average hours the employee worked in a month.
 "left" - "yes" if the employee ended up leaving, "no" otherwise.
 ↳ 1 cell hidden
-💪 Competition challenge
+#💪 Competition challenge
 Create a report that covers the following:
 
 Which department has the highest employee turnover? Which one has the lowest?
